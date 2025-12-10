@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Idol",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-10T05:34:16.452891Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Night Crawling (feat. Billy Idol)",
+      "artist": "Miley Cyrus feat. Billy Idol",
+      "has_synced": true,
+      "path": "select/01_Night_Crawling_(feat._Billy_Idol)_Miley_Cyrus_feat._Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Night Crawling (feat. Billy Idol)",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/02_Night_Crawling_(feat._Billy_Idol)_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Bones of an Idol",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/03_The_Bones_of_an_Idol_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eternal Idol",
+      "artist": "Black Sabbath",
+      "has_synced": false,
+      "path": "select/04_Eternal_Idol_Black_Sabbath.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Favourite Fallen Idol",
+      "artist": "Adorable",
+      "has_synced": true,
+      "path": "select/05_Favourite_Fallen_Idol_Adorable.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Idol (Live)",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/06_Idol_(Live)_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Idol",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/07_Idol_George_Michael.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crimson Idol Medley",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/08_Crimson_Idol_Medley_W.A.S.P..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eternal Idol (Alternative Studio Recording)",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/09_Eternal_Idol_(Alternative_Studio_Recording)_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Idol",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/10_The_Idol_W.A.S.P..txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Idol",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/11_The_Idol_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Idol",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/12_The_Idol_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Idol (Crimson edit)",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/13_The_Idol_(Crimson_edit)_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Idol - live acoustic",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/14_The_Idol_-_live_acoustic_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Idol (Live Acoustic)",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/15_The_Idol_(Live_Acoustic)_W.A.S.P..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Story Of Jonathan (Prologue To The Crimson Idol)",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/16_The_Story_Of_Jonathan_(Prologue_To_The_Crimson_Idol)_W.A.S.P..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Idol",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Idol_YOASOBI.txt"
+    }
+  ]
+}
